@@ -8,7 +8,8 @@ About Me:
 
 - I’m interested in WebDev, AI, MachineLearning, GameDev
 - I’m currently studying - Python, JS, PHP, MySql
-- How to reach me - www.instagram.com/v1talya_181 and www.t.me/w1z2z
+ 
+How to reach me - www.instagram.com/v1talya_181 and www.t.me/w1z2z
 
 <!---
 w1z2z/w1z2z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
