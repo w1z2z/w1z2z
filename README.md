@@ -3,7 +3,7 @@ Hi there 👋
 I am Vitaly
 Меня зовут Виталий
 
-I graduated from a college in Russia, as an information systems specialist
+I graduated from a college in Russia, as an information systems specialist \n
 Я окончил колледж на специалиста по информационным системам
 
 About Me / Обо мне:
