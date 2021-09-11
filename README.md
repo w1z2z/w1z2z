@@ -11,7 +11,7 @@ I graduated from a college in Russia, as an information systems specialist
 About Me / Обо мне:
 
 - I’m interested in WebDev, AI, MachineLearning, GameDev
-- I’m currently studying - JavaScript and its frameworks
+- I’m currently studying - JavaScript and its frameworks(Vue.js)
 - Я интересуюсь веб разработкой, искуственным интелектом, машинным обучением и разработкой игр
 - В настоящее время я изучаю - JavaScript и его фреймворки
  
