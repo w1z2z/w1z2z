@@ -11,9 +11,9 @@ I graduated from a college in Russia, as an information systems specialist
 About Me / Обо мне:
 
 - I’m interested in WebDev, AI, MachineLearning, GameDev
-- I’m currently studying - JavaScript and its frameworks(Vue.js)
+- I’m currently studying - JavaScript and its framework Vue.js
 - Я интересуюсь веб разработкой, искуственным интелектом, машинным обучением и разработкой игр
-- В настоящее время я изучаю - JavaScript и его фреймворки
+- В настоящее время я изучаю - JavaScript и его фреймворк  Vue.js
  
 How to reach me / Как со мной связаться - www.instagram.com/v1talya_181 and www.t.me/w1z2z
 
