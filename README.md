@@ -6,10 +6,6 @@ I am a junior javascript developer and I write code on the Vue framework
 
 Я младший разработчик javascript и пишу код на фреймворке Vue
 
-
-
-Я окончил колледж на специалиста по информационным системам
-
 About Me / Обо мне:
 
 - I'm graduated from a college in Russia, as an information systems specialist
