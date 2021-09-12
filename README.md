@@ -1,8 +1,6 @@
 Hi there 👋
 
-I am Vitaly
-
-Меня зовут Виталий
+I am Vitaly / Меня зовут Виталий
 
 I am a junior javascript developer and I write code on the Vue framework
 
