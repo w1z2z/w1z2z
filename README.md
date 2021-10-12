@@ -2,9 +2,9 @@ Hi there 👋
 
 I am Vitaly / Меня зовут Виталий
 
-I am a junior frontend developer, write code on the Vue framework (JavaScript)
+I am a junior frontend developer, write code on the React, Vue frameworks
 
-Я младший разработчик интерфейсов, пишу код на фреймворке Vue (JavaScript)
+Я младший разработчик интерфейсов, пишу код на фреймворках React, Vue
 
 About Me / Обо мне:
 
