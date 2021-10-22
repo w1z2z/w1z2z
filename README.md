@@ -4,10 +4,7 @@ My name is Vitaly
 
 I am a junior fullstack developer, my technology stack: Javascript, React (redux), Node.js (express), MongoDB, MySQL
 
-About Me:
-
-- I'm graduated from a college, as an information systems specialist
-- I’m interested in WebDev
+At the moment i starting my journey in web development, studying fullstack technology
  
 How to reach me - www.instagram.com/v1talya_181 and www.t.me/w1z2z
 
