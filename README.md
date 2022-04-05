@@ -3,6 +3,7 @@ Hi there 👋
 My name is Vitaly
 
 I am a frontend developer, my technology stack: HTML, CSS, JavaScript, React(Redux/MobX), TypeScript, REST API, GraphQL, Websocket.
+
 I have also worked with backend technology: Node.js(Nest/Express), PostgreSQL, MongoDB, MySql, Docker.
 
 About me:
