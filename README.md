@@ -2,7 +2,8 @@ Hi there 👋
 
 My name is Vitaly
 
-I am a junior fullstack developer, my technology stack: Javascript, React (redux), Node.js (express), MongoDB, MySQL
+I am a frontend developer, my technology stack: HTML, CSS, JavaScript, React(Redux/MobX), TypeScript, REST API, GraphQL, Websocket.
+I have also worked with backend technology: Node.js(Nest/Express), PostgreSQL, MongoDB, MySql, Docker.
 
 About me:
 - I finished college majoring in  specialist by information systems
