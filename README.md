@@ -4,7 +4,7 @@ My name is Vitaly
 
 I work on various outsourcing projects
 
-I'm Fullstack software developer, my technology stack: React(Redux/MobX), NodeJs(Nest/Express), REST API/GraphQL, Websocket, JavaScript, TypeScript.
+I'm fullstack software developer, my technology stack: React(Redux/MobX), NodeJs(Nest/Express), REST API/GraphQL, Websocket, JavaScript, TypeScript.
 
 How to reach me - www.instagram.com/v1talya_181 and www.t.me/w1z2z
 
