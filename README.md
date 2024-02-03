@@ -2,12 +2,13 @@ Hi there 👋
 
 My name is Vitaly
 
-I'm a full-stack software developer with a strong focus on backend technologies. 
+I'm an experienced backend developer with a strong proficiency in Node.js, Express, Nest.js, PostgreSQL, MongoDB, Redis, and RabbitMQ. I've developed RESTful and GraphQL APIs and adhere to SOLID, KISS, and DRY principles. I'm familiar with Git, BitBucket, WebSocket (Socket.io), Google API, Docker, and JIRA. I have hands-on experience in developing Telegram bots (Telegraf-js) and frontend technologies, including React, Next.js, TypeScript, Redux/MobX, and MUI/ANTd. I'm ready for new challenges and committed to continuous learning.
 
-I have extensive experience in building robust and scalable server-side applications using Node.js. My technology stack includes Node.js (Nest.js/Express.js) for backend development and React (Redux/MobX) for frontend development , along with REST API/GraphQL, Websocket, JavaScript, and TypeScript.
-I'm experienced in working with different databases, such as PostgreSQL and MongoDB, and I can design and optimize database schemas for efficient data storage and retrieval.
+"Я опытный бэкенд-разработчик с опытом работы с Node.js, Express, Nest.js, PostgreSQL, MongoDB, Redis, RabbitMQ. Создавал RESTful и GraphQL API. Применяю принципы SOLID, KISS и DRY. Знаком с Git, BitBucket, WebSocket (Socket.io), Google API, Docker, JIRA. Опыт в разработке телеграм-ботов (Telegraf-js) и фронтенд-технологий: React, Next.js, TypeScript, Redux/MobX, MUI/ANTd. Готов к новым вызовам и постоянному обучению."
+
 
 Feel free to reach out to me through my Instagram profile at www.instagram.com/v1talya_181 or via Telegram at www.t.me/w1z2z. I'm always open to new opportunities and exciting projects.
+
 
 <!---
 w1z2z/w1z2z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
