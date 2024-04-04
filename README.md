@@ -7,13 +7,13 @@
 ### 🔗 &nbsp;Social :
 <div id="badges">
   <a href="https://t.me/w1z2z">
-    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="TG"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="TG"/>
   </a>
   <a href="https://vk.com/vitalya_181">
     <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
   </a>
   <a href="https://krasnodar.hh.ru/resume/ecb51fb1ff0812b4b40039ed1f645974663656?hhtmFrom=resume_list">
-    <img src="https://img.shields.io/badge/head hunter-red?style=for-the-badge&logo=hh&logoColor=white" alt="HH"/>
+    <img src="https://img.shields.io/badge/Head hunter-red?style=for-the-badge&logo=hh&logoColor=white" alt="HH"/>
   </a>
 </div>
 
