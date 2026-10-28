@@ -16,9 +16,31 @@
 
 ---
 
-### 👋 &nbsp;About me :
-#### My name is Vitaly, I am an experienced backend developer with a wide range of skills and a deep understanding of modern development technologies, including experience in designing the architecture of backend applications taking into account scalability, performance and security requirements. My experience includes the development of efficient database schemas, as well as the creation of both monolithic and microservice applications, taking into account the specifics of the project and business needs.
-#### Stack: JavaScript, TypeScript, Node.js (Express / Nest.js), PostgreSQL, MongoDB, Redis, MySQL (TypeORM / Prisma / Sequelize / Mongoose), REST, GraphQL, RabbitMQ, NATS, SOLID, KISS, DRY, Git (BitBucket, GitHub, GitLab), Docker, Heroku, Websocket (Socket.io), Google API, Yandex API, OpenAI (ChatGPT API), Swagger
+# Vitaly Kochergin
+
+Backend engineer focused on **Node.js, TypeScript, NestJS and PostgreSQL**. Building commercial software since 2021.
+
+I work on backend architecture, data models, integrations and product development. My experience includes e-commerce, fintech and SaaS, asynchronous processing, idempotent file ingestion and complex business workflows. I have also coordinated a team of five developers.
+
+I use AI-assisted development to accelerate implementation, with a growing focus on system design, architecture, security and operating the resulting product.
+
+## Selected engineering demos
+
+These are demonstration projects with limited scope. They do not represent the full scope of my commercial work.
+
+- **[Balance service](https://github.com/w1z2z/balance-service)** — row locking and transactional updates with operation history. Current scope: debit operations; the implementation is not a complete financial ledger.
+- **[User and audit services](https://github.com/w1z2z/microservices-grpc)** — NestJS services communicating over gRPC, with separate PostgreSQL databases. Audit delivery currently uses a best-effort approach.
+- **[Marketplace offers API](https://github.com/w1z2z/marketplace-offers-api)** — Fastify, PostgreSQL, Redis activity data and BullMQ background processing. A focused implementation example, with scalability trade-offs to explore.
+
+## Stack
+
+Node.js · TypeScript · NestJS · Express.js · PostgreSQL · Redis · Prisma · TypeORM · Kafka · RabbitMQ · NATS · BullMQ · REST · GraphQL · Docker
+
+## Collaboration
+
+Open to full-time and part-time backend roles, startup projects, contract development and technical consulting. Based in Russia; remote work preferred.
+
+[Telegram](https://t.me/w1z2z) · [Email](mailto:kochergin.develop@gmail.com)
 
 ---
 
