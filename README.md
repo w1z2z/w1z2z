@@ -9,10 +9,11 @@
   <a href="https://t.me/w1z2z">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="TG"/>
   </a>
-  <a href="https://vk.com/vitalya_181">
-    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+  <a href="mailto:kochergin.develop@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
+
 
 ---
 
